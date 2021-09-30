@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **SASS, Bootstrapv5 & JavaScript Projects.**
 
-- 🌱 I’m currently learning **JavaScript & it's Frameworks (i.e. React & Angular)**
+- 🌱 I’m currently learning **JavaScript & it's Frameworks (i.e. React & Angular) + some Backend Stuff**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
