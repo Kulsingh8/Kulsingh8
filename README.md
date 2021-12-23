@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Kuldeep Singh</h1>
-<h3 align="center">A Passionate Frontend Web Developer & Freelancer</h3>
+<h3 align="center">A Passionate DevOps Engineer & Freelancer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kulsingh8&label=Profile%20views&color=0e75b6&style=flat" alt="kulsingh8" /> </p>
 
-- 🔭 I’m currently working on **SASS, Bootstrapv5 & JavaScript Projects.**
+- 🔭 I’m currently working on **DevOps Projects.**
 
-- 🌱 I’m currently learning **JavaScript & it's Frameworks (i.e. React & Angular) + some Backend Stuff**
+- 🌱 I’m currently learning **Continuous Integration/continuous delivery, Configuration management, Deployment automation, Infrastructure Orchestration, Testing and Cloud Quality tools**
 
-- 👯 I’m looking to collaborate on **Web Development Projects**
+- 👯 I’m looking to collaborate on **DevOps Projects**
 
-- 🤝 I’m looking for help with **Frontend Projects**
+- 🤝 I’m looking for help with **DevOps Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kulsingh8](https://github.com/Kulsingh8)
 
-- 💬 Ask me about **Frontend Web Development**
+- 💬 Ask me about **DevOps**
 
 - 📫 How to reach me **https://www.linkedin.com/in/kuldeep-singh-8411a413a**
 
